@@ -1,16 +1,16 @@
-# Vara's Portfolio
+# Chaitanya Pawar — Personal Portfolio
 
-A modern, high-performance portfolio website built with React, TypeScript, and Vite. This project showcases my skills, experience, and projects as a Full Stack Developer, featuring a unique neo-brutalist aesthetic mixed with interactive elements.
+A modern, high-performance personal portfolio website built with React, TypeScript, and Vite. Showcases my skills, experience, projects, and leadership roles with a neo-brutalist aesthetic and interactive elements.
 
 ## 🚀 Features
 
-- **Interactive Hero Section**: Features a dynamic matrix rain effect and typewriter animations for a high-tech first impression.
-- **Neo-Brutalist Design**: Distinct aesthetics with paper textures, bold borders, and high-contrast monochromatic styling.
-- **Interactive Terminal**: A custom-built terminal simulation that provides a developer-centric interactive experience.
-- **GitHub Integration**: Live visualization of GitHub contributions using `react-github-calendar`.
-- **Direct WhatsApp Messaging**: Integrated contact form that redirects users directly to WhatsApp for instant communication.
-- **Responsive & Accessible**: Fully optimized for mobile, tablet, and desktop viewports with a focus on semantic HTML and accessibility.
-- **Modern Performance**: Standardized with Vite for lightning-fast HMR and optimized production builds.
+- **Interactive Hero Section**: Dynamic matrix rain effect and typewriter animations.
+- **Neo-Brutalist Design**: Bold borders, paper textures, and high-contrast monochromatic styling.
+- **Interactive Terminal**: Custom terminal widget (press `Ctrl + K`) for a developer-centric experience.
+- **GitHub Integration**: Live GitHub contribution calendar via `react-github-calendar`.
+- **Events & Forums Section**: Showcases leadership roles and college-level initiatives.
+- **Responsive & Accessible**: Fully optimized for mobile, tablet, and desktop.
+- **Modern Performance**: Vite-powered with lightning-fast HMR and optimized production builds.
 
 ## 🛠️ Tech Stack
 
@@ -18,19 +18,16 @@ A modern, high-performance portfolio website built with React, TypeScript, and V
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
-- **Animations**: Tailwind CSS Animate
 - **Routing**: React Router DOM v6
-- **State Management**: React Query (TanStack Query)
+- **State Management**: TanStack Query
 
 ## 📦 Installation & Setup
-
-To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/VARA4u-tech/Vara-s--Portfolio.git
-   cd Vara-s--Portfolio
+   git clone https://github.com/chaitanyapawar-dev/chaitanya-portfolio.git
+   cd chaitanya-portfolio
    ```
 
 2. **Install dependencies**
@@ -54,22 +51,23 @@ To get a local copy up and running, follow these steps:
 
 ```text
 src/
-├── components/     # High-level sections (Hero, Contact, Terminal, etc.)
-├── pages/          # Individual page components (Index, etc.)
-├── ui/             # shadcn/ui primitive components
+├── components/     # Page sections (Hero, About, Projects, Terminal, etc.)
+├── pages/          # Page components (Index, NotFound)
 ├── hooks/          # Custom React hooks
+├── lib/            # Utility functions
 ├── App.tsx         # Main application routing & structure
 └── main.tsx        # Entry point
 ```
 
 ## 📬 Contact
 
-- **Author**: Pappuri Durga Vara Prasad
-- **Email**: [pappuridurgavaraprasad4pl@gmail.com](mailto:pappuridurgavaraprasad4pl@gmail.com)
-- **WhatsApp**: [+91 9550533315](https://wa.me/919550533315)
-- **GitHub**: [@VARA4u-tech](https://github.com/VARA4u-tech)
-- **LinkedIn**: [vara4u](https://linkedin.com/in/vara4u)
+- **Author**: Chaitanya Pawar
+- **Email**: [chaitanyapawar.dev@gmail.com](mailto:chaitanyapawar.dev@gmail.com)
+- **Phone**: +91 8007393407
+- **GitHub**: [@chaitanyapawar-dev](https://github.com/chaitanyapawar-dev)
+- **LinkedIn**: [chaitanyapawar02](https://www.linkedin.com/in/chaitanyapawar02)
+- **Instagram**: [@_chaitanya0205](https://www.instagram.com/_chaitanya0205/)
 
 ---
 
-_Built with ❤️ and a lot of caffeine by Vara._
+_Built with ❤️ by Chaitanya Pawar — From India 🇮🇳 to the World 🌍_
